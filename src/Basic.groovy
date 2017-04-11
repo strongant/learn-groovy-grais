@@ -26,7 +26,7 @@ if(args.size()==2){
     stringCount = content.count(args[1])
 }
 
-println "Characters:".padRight(15) + charCount
+println "Characters:".gp(15) + charCount
 println "Wordss:".padRight(15) + wordCount
 
 
