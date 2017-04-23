@@ -1,0 +1,2 @@
+writeFileByJava
+append content by java
